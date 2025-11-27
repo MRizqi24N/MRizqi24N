@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Muhammad+Rizqi+Nur+Alif;IT+Support+Specialist;Laravel+Developer;System+Administrator" alt="Typing SVG" />
 </div>
----
 
 ## 👨‍💻 About Me
 
@@ -100,17 +99,6 @@ Educational project for learning encryption algorithms.
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MRizqi24N&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrizqinuralif/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadrizqinuralif24@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MRizqi24N)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6289614344979)
 
 </div>
 
