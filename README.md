@@ -14,11 +14,10 @@
 I'm an **IT Support Specialist** and **Junior System Developer** with **3+ years** of experience in system administration, network management, and web development. Currently working at **PT Trimitra Chitrahasta**, supporting IT infrastructure and developing internal applications.
 
 - 🔧 **Currently working on:** E-Kaizen Suggestion System (Laravel-based)
-- 🎓 **Education:** Bachelor of Informatics Engineering - Universitas Pelita Bangsa (2024)
+- 🎓 **Education:** Bachelor of Informatics Engineering
 - 🌱 **Learning:** Advanced Laravel, DevOps, and Cloud Computing
 - 💼 **Experience:** Manufacturing IT Support, Hardware/Software Troubleshooting, System Administration
 - 📍 **Location:** Cikarang, Bekasi, West Java, Indonesia
-- 📫 **Email:** muhammadrizqinuralif24@gmail.com
 
 ---
 
@@ -50,22 +49,6 @@ I'm an **IT Support Specialist** and **Junior System Developer** with **3+ years
 
 ---
 
-## 💼 Work Experience
-
-### **IT Support Specialist | Junior System Developer**
-**PT Trimitra Chitrahasta** • *Sep 2022 - Present*
-- 🖥️ Manage IT infrastructure (Windows Server, Active Directory, M365)
-- 🌐 Configure and maintain network devices (Switch, Router, Ubiquiti AP)
-- 💻 Develop internal web applications using Laravel framework
-- 🔧 Hardware/software troubleshooting and system maintenance
-- 📊 Created Web-Based Stock Opname System (reduced manual errors by 40%)
-
-### **Previous Roles:**
-- **Assembly Operator** - PT Yamaha Music Manufacturing Indonesia (2020-2022)
-- **Assembly Operator** - PT Astra Honda Motor (2018-2020)
-- **Hardware Technician (Internship)** - IVI Computer Centre (2016)
-
----
 
 ## 🚀 Featured Projects
 
@@ -93,7 +76,6 @@ I'm an **IT Support Specialist** and **Junior System Developer** with **3+ years
 **Tech Stack:** Laravel • MySQL • QR Code • Bootstrap
 
 **Impact:**
-- ✅ Reduced manual data entry errors by **40%**
 - 🏭 Deployed at Cikarang & Cirebon manufacturing plants
 - 📊 Improved inventory tracking efficiency
 
@@ -124,44 +106,6 @@ Educational project for learning encryption algorithms.
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MRizqi24N&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
-
----
-
-## 🎯 Core Competencies
-```yaml
-System Administration:
-  - Windows Server 2012 (User Management, Group Policy)
-  - Active Directory & Domain Controller
-  - Microsoft 365 & SharePoint Administration
-  - Network Attached Storage (NAS) Backup & Recovery
-
-Networking:
-  - Router & Switch Configuration
-  - Ubiquiti Access Point Management
-  - LAN/WAN Configuration
-  - Firewall & Network Security
-
-Development:
-  - Full-Stack Web Development (Laravel Framework)
-  - Database Design & Management (MySQL, PostgreSQL)
-  - QR Code System Integration
-  - RESTful API Development
-
-Hardware Support:
-  - PC/Laptop Hardware Diagnostics & Repair
-  - Network Printer Installation (Local & Network)
-  - CCTV System Configuration
-  - Mobile Device Troubleshooting
-```
-
----
-
-## 🏆 Achievements & Certifications
-
-- 🥇 **QCC Winner 2023** - Web-Based Stock Opname System
-- 🎓 **Bachelor of Informatics Engineering** - Universitas Pelita Bangsa (GPA: 3.53)
-- 📜 **Industrial Internship Certificate** - IVI Computer Centre (Grade A - 91.3)
-- 🏭 **Manufacturing Experience** - 7+ years in various roles
 
 ---
 
